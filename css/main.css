@@ -2832,3 +2832,6 @@ blockquote {
 .comments {
   background: rgba(255,255,255,0.7) none repeat scroll !important;
 }
+.wl-power {
+  display: none;
+}
